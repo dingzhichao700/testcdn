@@ -1,7 +1,7 @@
 {
     "baseVersion": "20261008T091328275Z",
-    "release": "20261008T091328275Z",
-    "resourceRoot": "20261008T091328275Z/",
+    "release": "20261008T091518083Z",
+    "resourceRoot": "20261008T091518083Z/",
     "aot": [
         "DOTween.dll",
         "Foundation.dll",
