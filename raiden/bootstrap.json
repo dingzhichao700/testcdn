@@ -3,6 +3,10 @@
         {
             "baseVersion": "20261008T091328275Z",
             "manifestUrl": "20261008T091328275Z/current.json"
+        },
+        {
+            "baseVersion": "20261008T183537966Z",
+            "manifestUrl": "20261008T183537966Z/current.json"
         }
     ]
 }
