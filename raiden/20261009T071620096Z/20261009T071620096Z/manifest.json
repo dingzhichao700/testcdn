@@ -1,0 +1,18 @@
+{
+    "baseVersion": "20261009T071620096Z",
+    "release": "20261009T071620096Z",
+    "resourceRoot": "20261009T071620096Z/",
+    "aot": [
+        "DOTween.dll",
+        "Foundation.dll",
+        "Luban.Runtime.dll",
+        "Newtonsoft.Json.dll",
+        "System.Core.dll",
+        "UnityEngine.CoreModule.dll",
+        "mscorlib.dll"
+    ],
+    "assemblies": [
+        "Login.dll",
+        "Main.dll"
+    ]
+}
