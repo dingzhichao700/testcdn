@@ -1,0 +1,18 @@
+{
+    "baseVersion": "20261009T150955731Z",
+    "release": "20261009T150955731Z",
+    "resourceRoot": "releases/20261009T150955731Z/",
+    "bundleRoot": "bundles/",
+    "aot": [
+        "DOTween.dll",
+        "Foundation.dll",
+        "Newtonsoft.Json.dll",
+        "System.Core.dll",
+        "UnityEngine.CoreModule.dll",
+        "mscorlib.dll"
+    ],
+    "assemblies": [
+        "Login.dll",
+        "Main.dll"
+    ]
+}
